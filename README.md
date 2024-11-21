@@ -1,14 +1,12 @@
 # PRS model for hypertensive disorders in pregnancy
 Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S.M. (2024) Long-term cardiovascular risk according to lifestyle, metabolic health, and genetic risk of hypertensive disease during pregnancy.
 
+---
+
 ### Hypertensive disorders of pregnancy - ??? variants
 > [FinnGen_r8_PRSCS_auto.gz](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/FinnGen_r8_PRSCS_auto.gz)
 
----
-
-## Description
-
-## Data Source
+## Data Source (GWAS summary statistics)
 - **FinnGen Release 8 (R8):** Includes association data at 20,175,454 variants for 2,202 endpoints based on 342,499 Finnish individuals (190,879 females and 151,620 males).
 - **HDP Cases:** Identified using ICD codes:  
   - ICD-8: `63701`, `63703`, `63704`, `63709`, `63710`, `63799`, `66120`  
@@ -21,8 +19,7 @@ Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S.M. (202
   - 10 principal components (PCs)
   - Genotyping batch
 
-## Workflow
-
+## PRS Generation
 ### 1. Data Preparation
 - FinnGen summary statistics were mapped from **GRCh38** to **GRCh37/hg19** using the [liftOver tool](https://genome.ucsc.edu/cgi-bin/hgLiftOver) to ensure compatibility with UK Biobank genotyped data (GRCh37/hg19).
 
