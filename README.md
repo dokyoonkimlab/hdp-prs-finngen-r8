@@ -1,5 +1,5 @@
-# hdp-prs-finngen-r8
-#### PRS model for hypertensive disorders in pregnancy
+# PRS model for hypertensive disorders in pregnancy
+#### hdp-prs-finngen-r8
 
 Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S.M. (2024) Long-term cardiovascular risk according to lifestyle, metabolic health, and genetic risk of hypertensive disease during pregnancy.
 
