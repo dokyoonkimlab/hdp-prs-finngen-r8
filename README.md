@@ -4,7 +4,7 @@ Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S. M. (20
 ---
 
 ### Hypertensive disorders of pregnancy ([O15_HYPTENSPREG](https://r8.finngen.fi/pheno/O15_HYPTENSPREG))
-> [FinnGen_r8_PRSCS_auto.gz](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/FinnGen_r8_PRSCS_auto.gz)
+> [FinnGen_r8_PRScs_auto.gz](https://github.com/dokyoonkimlab/hdp-prs-finngen-r8/blob/main/prs-model/015_HYPTENSPREG_FinnGen_r8_PRScs_auto.gz)
 
 ## Data Source (GWAS summary statistics)
 - **FinnGen Release 8 (R8):** Includes association data at 20,175,454 variants for 2,202 endpoints based on 342,499 Finnish individuals (190,879 females and 151,620 males).
