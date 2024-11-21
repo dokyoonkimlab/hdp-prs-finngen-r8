@@ -26,6 +26,7 @@ Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S. M. (20
 ### 2. PRS Construction
 - **Bayesian Prediction Method:**  
   We used [**PRS-CS**](https://github.com/getian107/PRScs) to infer the posterior mean effect size of variants, leveraging the **1000 Genomes Project (phase 3 EUR)** as the external linkage disequilibrium (LD) reference panel.
+  - A total of 1,102,676 mapped variants were used.
 - **Computation:**  
   Individual PRSs were calculated as a weighted sum of risk alleles using beta coefficients from PRS-CS. This was implemented using [**PLINK v1.90**](https://www.cog-genomics.org/plink/) with the `–score` command.
 
