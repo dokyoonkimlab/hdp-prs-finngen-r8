@@ -3,7 +3,7 @@ Jung, S. H., Kim, H., Jung, Y. M., Shivakumar, M., …, Kim, D. & Lee, S. M. (20
 
 ---
 
-### Hypertensive disorders of pregnancy - ??? variants
+### Hypertensive disorders of pregnancy (O15_HYPTENSPREG)
 > [FinnGen_r8_PRSCS_auto.gz](https://github.com/dokyoonkimlab/hnc-prs-phewas/blob/main/prs-model/FinnGen_r8_PRSCS_auto.gz)
 
 ## Data Source (GWAS summary statistics)
