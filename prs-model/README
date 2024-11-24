@@ -1,0 +1,8 @@
+Column Descriptions
+
+CHR: Chromosome number where the SNP is located (e.g., 1–22).
+SNP_rsID: Reference SNP (rs) identifier, a unique identifier for each single nucleotide polymorphism (SNP).
+BP_hg38: Base pair position of the SNP in the human genome, based on the GRCh38/hg38 reference genome assembly.
+A1: Effect allele for the SNP, representing the allele used to compute the polygenic risk score (PRS).
+A2: Non-effect allele for the SNP, complementary to the effect allele (A1).
+Weight_PRScs: SNP weight derived from the PRS-CS (auto) method, representing the effect size for the PRS model.
